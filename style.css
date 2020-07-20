@@ -1,0 +1,83 @@
+
+    
+
+.sing-btn{
+           
+            padding: 8px 20px;
+            width: 104px;
+            height: 43px;
+            background: #21B573;
+            border-radius: 33px;
+            text-align: center;
+            color: white;
+            border: none;
+
+}
+h1{
+    font-size: 48px;
+}
+.green-color{
+  color:   #21B573;
+}
+.top-bg{
+    background-color:#F0FFF0;
+}
+.get-started-btn{
+                width: 153px;
+                height: 43px;
+                left: 205px;
+                margin-top: 15px;
+                color: white;
+                background: #21B573;
+                border-radius: 33px;
+                border: none;
+
+}
+.secound-banner-subject{
+                margin-top:  100px;
+                margin-bottom: 100px;
+                padding: 0px;
+                
+               
+                
+
+}
+.height{
+    height: 50px;
+}
+.students{
+ 
+background: #FFFFFF;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+.online-courses{
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+    }
+
+.testimonial{
+    margin-left: 100px;
+}
+.last-banner{
+    background-color:  #282531;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 100px;
+   
+
+   height: 250px;
+   left: 0px;
+   top: 1900px;
+
+
+    background: #282531;
+ 
+font-size: 18px;
+line-height: 30px;
+
+}
